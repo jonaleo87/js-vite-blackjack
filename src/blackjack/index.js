@@ -1,7 +1,6 @@
 import _ from 'underscore'
 import { crearDeck, pedirCarta, valorCarta, turnoComputadora } from './usecases';
-import { crearCartaHTML } from './usecases/crear-carta-HTML';
-
+import { crearCartaHTML } from './usecases/crear-carta-html.js';
 
 
 /**

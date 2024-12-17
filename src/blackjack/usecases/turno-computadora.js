@@ -1,6 +1,6 @@
 import { pedirCarta } from "./pedir-carta";
 import { valorCarta } from "./valor-carta";
-import { crearCartaHTML } from "./crear-carta-HTML";
+import { crearCartaHTML } from "./crear-carta-html";
 
 
 /**
